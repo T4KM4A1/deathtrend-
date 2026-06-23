@@ -13,7 +13,7 @@ TARGET_USERNAME = "gym_gh0stz"  # Replace with target Instagram username
 REPORT_REASON = "spam"  # Options: spam, violence, nudity, harassment, etc.
 REPORT_COUNT_PER_PROXY = 1000  # Number of reports per proxy
 DELAY_BETWEEN_REPORTS = 0  # Seconds delay between reports to avoid rate limits
-PROXY_LIST_FILE = "../proxies/proxies.txt"  # Path to proxy list file
+PROXY_LIST_FILE = "proxies/proxies.txt"  # Path to proxy list file
 LOG_FILE = "../logs/report_logs.txt"  # Path to log file
 
 # Instagram unofficial report endpoint (subject to change)
