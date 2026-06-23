@@ -9,9 +9,9 @@ from fake_useragent import UserAgent
 from concurrent.futures import ThreadPoolExecutor
 
 # Configuration
-TARGET_USERNAME = "target_username_here"  # Replace with target Instagram username
+TARGET_USERNAME = gym_gh0stz  # Replace with target Instagram username
 REPORT_REASON = "spam"  # Options: spam, violence, nudity, harassment, etc.
-REPORT_COUNT_PER_PROXY = 15  # Number of reports per proxy
+REPORT_COUNT_PER_PROXY = 1000  # Number of reports per proxy
 DELAY_BETWEEN_REPORTS = 1.5  # Seconds delay between reports to avoid rate limits
 PROXY_LIST_FILE = "../proxies/proxies.txt"  # Path to proxy list file
 LOG_FILE = "../logs/report_logs.txt"  # Path to log file
