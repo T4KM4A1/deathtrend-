@@ -19,7 +19,7 @@ A powerful tool designed to mass-report Instagram accounts using rotating proxie
    - Clone or download this repo to your local machine.
    ```bash
    git clone https://github.com/yourusername/FUCKINSTA.git
-   cd FUCKINSTA
+   cd deathtrend-
    ```
 
 3. **Install Dependencies**:
